@@ -52,7 +52,7 @@ from sklearn.preprocessing import StandardScaler
 warnings.filterwarnings("ignore", category=FutureWarning)
 warnings.filterwarnings("ignore", category=UserWarning)
 
-STUDENT_IDS = ["123456789"]  # TODO: your ID number(s) as strings, e.g. ["123456789"]
+STUDENT_IDS = ["326335387"]  # TODO: your ID number(s) as strings, e.g. ["123456789"]
 
 MEASUREMENTS_PATH = "hw1_measurements.csv"
 LABELS_PATH = "hw1_labels.csv"
